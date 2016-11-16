@@ -1,5 +1,5 @@
 {
-    "name": "gasparesganga/php-shapefile",
+    "name": "coreation/php-shapefile",
     "description": "PHP library to read any ESRI Shapefile and its associated DBF into a PHP Array or WKT",
     "type": "library",
     "keywords": ["shapefile", "shape", "shp", "dbf", "esri"],
